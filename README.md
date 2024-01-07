@@ -1,2 +1,1 @@
 # django-htmx
-# django-htmx
