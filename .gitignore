@@ -138,4 +138,6 @@ GitHub.sublime-settings
 .history
 
 # Dump files
-*.json
+initial_gifts.json
+initial_guests.json
+initial_parties.json
